@@ -1,2 +1,2 @@
-# Java
-Practicing Hacker Rank Java Questions
+# Java ☕
+Practicing Java by Solving Hacker Rank Java Questions.
